@@ -1,0 +1,35 @@
+/** @format */
+
+.frame-image {
+  width: 100%;
+}
+
+.cha-top {
+  margin-top: -5px;
+  font-size: 15px;
+  font-weight: 400;
+}
+.cha-middle {
+  margin-top: 5px;
+  font-size: 15px;
+  color: rgb(139, 139, 139);
+}
+.cha-bottom {
+  font-size: 15px;
+  color: rgb(139, 139, 139);
+}
+.frame-div {
+  margin-bottom: 12px;
+  position: relative;
+}
+.frame-time {
+  font-family: Roboto, Arial;
+  background-color: black;
+  padding: 2px;
+  border: none;
+  border-radius: 2px;
+  color: aliceblue;
+  position: absolute;
+  bottom: 10px;
+  right: 5px;
+}
